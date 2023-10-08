@@ -1,0 +1,18 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    width: 200px;
+    height: 50px;
+}
+
+.mesTab,
+.mesTab2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.tab5 {
+    width: 300px;
+}
